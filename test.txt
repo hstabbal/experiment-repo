@@ -1,3 +1,5 @@
 Hello this is my first test. 
 
-Git is amazing
+Git is amazing. 
+
+You cannot believe how easy it is to use git
